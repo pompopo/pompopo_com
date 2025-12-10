@@ -1,6 +1,6 @@
 # pompopo.com
 
-pompopo.comの公式ウェブサイトです。Docusaurus 3.9.2で構築されています。
+pompopo.comの公式ウェブサイトです。Docusaurusで構築されています。
 
 🌐 **URL**: https://pompopo.com
 
