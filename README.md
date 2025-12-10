@@ -23,8 +23,8 @@ Windowsを含むすべてのプラットフォームで動作する開発環境�
 
 1. リポジトリをクローン:
 ```bash
-git clone https://github.com/pompopo/pompopo-com.git
-cd pompopo-com
+git clone https://github.com/pompopo/pompopo_com.git
+cd pompopo_com
 ```
 
 2. Docker Composeで開発サーバーを起動:
@@ -67,8 +67,8 @@ Node.jsが既にインストールされている場合は、ローカルで直�
 
 1. リポジトリをクローン:
 ```bash
-git clone https://github.com/pompopo/pompopo-com.git
-cd pompopo-com
+git clone https://github.com/pompopo/pompopo_com.git
+cd pompopo_com
 ```
 
 2. 依存関係をインストール:
@@ -108,4 +108,4 @@ mainブランチにプッシュすると、GitHub Actionsが自動的にGitHub P
 
 ## ライセンス
 
-Copyright © 2024 @pompopo
+Copyright © 2025 @pompopo
